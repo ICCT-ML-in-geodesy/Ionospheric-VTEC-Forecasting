@@ -1,2 +1,2 @@
 # Ionospheric-VTEC-Forecasting
-Example of using machine learning for ionospheric VTEC (Vertical Total Electron Content) time-series forecasting
+Example of using machine learning methods for forecasting Vertical Total Electron Content (VTEC) in the ionosphere
